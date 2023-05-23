@@ -1,0 +1,143 @@
+{
+  "Docking": {
+    "Data": [
+      "DockNode        ID=0x00000003 Pos=-2,11 Size=161,693 Split=Y Selected=0xD106F110",
+      "DockNode      ID=0x0000000B Parent=0x00000003 SizeRef=249,53 Selected=0xB450257E",
+      "DockNode      ID=0x0000000C Parent=0x00000003 SizeRef=249,638 Split=Y",
+      "DockNode    ID=0x00000005 Parent=0x0000000C SizeRef=250,106 Split=Y Selected=0x39AD1970",
+      "DockNode  ID=0x0000000E Parent=0x00000005 SizeRef=249,563 Selected=0x39AD1970",
+      "DockNode  ID=0x00000002 Parent=0x00000005 SizeRef=249,128 Selected=0x6AE6D891",
+      "DockNode    ID=0x00000006 Parent=0x0000000C SizeRef=250,479 Selected=0x2D9B9756",
+      "DockNode        ID=0x00000007 Pos=162,12 Size=968,715 Split=Y",
+      "DockNode      ID=0x0000000A Parent=0x00000007 SizeRef=968,635 Split=Y",
+      "DockNode    ID=0x00000008 Parent=0x0000000A SizeRef=951,340 Selected=0x5603D03D",
+      "DockNode    ID=0x00000009 Parent=0x0000000A SizeRef=951,345 Split=X",
+      "DockNode  ID=0x00000001 Parent=0x00000009 SizeRef=700,687 Selected=0xB5CBE9F0",
+      "DockNode  ID=0x00000004 Parent=0x00000009 SizeRef=249,687 Selected=0xB684EE57",
+      "DockNode      ID=0x0000000D Parent=0x00000007 SizeRef=968,54 Selected=0xBAA9062B"
+    ]
+  },
+  "MainWindow": {
+    "GLOBAL": {
+      "fps": "120",
+      "height": "745",
+      "maximized": "1",
+      "style": "0",
+      "userScale": "2",
+      "width": "1301",
+      "xpos": "0",
+      "ypos": "23"
+    }
+  },
+  "Table": {
+    "0xE56EC1C2,4": {
+      "Column 0  Weight": "1.0000",
+      "Column 1  Weight": "1.0000",
+      "Column 2  Weight": "1.0000",
+      "Column 3  Weight": "1.0000"
+    }
+  },
+  "Window": {
+    "###/SmartDashboard/BalanceChargeStationPID": {
+      "Collapsed": "0",
+      "Pos": "52,122",
+      "Size": "161,144"
+    },
+    "###/SmartDashboard/Field": {
+      "Collapsed": "0",
+      "DockId": "0x00000001,0",
+      "Pos": "162,339",
+      "Size": "713,330"
+    },
+    "###/SmartDashboard/estimatorField": {
+      "Collapsed": "0",
+      "DockId": "0x00000008,0",
+      "Pos": "162,12",
+      "Size": "968,325"
+    },
+    "###/SmartDashboard/mobilitychooser": {
+      "Collapsed": "0",
+      "DockId": "0x0000000B,0",
+      "Pos": "-2,11",
+      "Size": "249,53"
+    },
+    "###/SmartDashboard/pathchooser": {
+      "Collapsed": "0",
+      "Pos": "46,116",
+      "Size": "254,54"
+    },
+    "###/SmartDashboard/tagchooser": {
+      "Collapsed": "0",
+      "DockId": "0x0000000D,0",
+      "Pos": "162,671",
+      "Size": "968,56"
+    },
+    "###Addressable LEDs": {
+      "Collapsed": "0",
+      "Pos": "1128,19",
+      "Size": "142,248"
+    },
+    "###FMS": {
+      "Collapsed": "0",
+      "DockId": "0x00000002,1",
+      "Pos": "-2,576",
+      "Size": "161,128"
+    },
+    "###Joysticks": {
+      "Collapsed": "1",
+      "Pos": "-9,677",
+      "Size": "796,155"
+    },
+    "###NetworkTables": {
+      "Collapsed": "0",
+      "DockId": "0x00000006,0",
+      "Pos": "-2,138",
+      "Size": "249,566"
+    },
+    "###NetworkTables Info": {
+      "Collapsed": "0",
+      "Pos": "250,130",
+      "Size": "750,145"
+    },
+    "###Other Devices": {
+      "Collapsed": "0",
+      "DockId": "0x00000004,0",
+      "Pos": "877,339",
+      "Size": "253,330"
+    },
+    "###PWM Outputs": {
+      "Collapsed": "0",
+      "DockId": "0x00000006,1",
+      "Pos": "-2,138",
+      "Size": "249,566"
+    },
+    "###RoboRIO": {
+      "Collapsed": "0",
+      "Pos": "723,11",
+      "Size": "119,146"
+    },
+    "###System Joysticks": {
+      "Collapsed": "0",
+      "DockId": "0x00000002,0",
+      "Pos": "-2,576",
+      "Size": "161,128"
+    },
+    "###Timing": {
+      "Collapsed": "0",
+      "DockId": "0x00000002,2",
+      "Pos": "-2,576",
+      "Size": "161,128"
+    },
+    "Debug##Default": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "400,400"
+    },
+    "Robot State": {
+      "Collapsed": "0",
+      "DockId": "0x0000000E,0",
+      "Pos": "-2,11",
+      "Size": "161,563"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "HALProvider": {
+    "Addressable LEDs": {
+      "0": {
+        "columns": 9
+      },
+      "window": {
+        "visible": true
+      }
+    },
+    "Other Devices": {
+      "ADIS16448[4]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/PID Controller": "PIDController",
+      "/LiveWindow/Ungrouped/PWMSparkMax[3]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/Spark[0]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Spark[1]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Spark[2]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Spark[3]": "Motor Controller",
+      "/LiveWindow/Ungrouped/class frc2::SubsystemBase": "Subsystem",
+      "/SmartDashboard/BalanceChargeStationPID": "PIDController",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/camera Sim Field": "Field2d",
+      "/SmartDashboard/estimatorField": "Field2d",
+      "/SmartDashboard/mobilitychooser": "String Chooser",
+      "/SmartDashboard/pathchooser": "String Chooser",
+      "/SmartDashboard/tagchooser": "String Chooser"
+    },
+    "windows": {
+      "/SmartDashboard/Field": {
+        "Robot": {
+          "arrowColor": [
+            0.08434256166219711,
+            0.6372548937797546,
+            0.08434256166219711,
+            255.0
+          ],
+          "arrowSize": 72,
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            255.0
+          ],
+          "style": "Box/Image"
+        },
+        "window": {
+          "name": "OYUN SAHASI",
+          "visible": true
+        }
+      },
+      "/SmartDashboard/estimatorField": {
+        "window": {
+          "name": "KONUM BELIRLERME",
+          "visible": true
+        }
+      },
+      "/SmartDashboard/tagchooser": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "Persistent Values": {
+      "open": false
+    },
+    "Retained Values": {
+      "open": false
+    },
+    "Transitory Values": {
+      "open": false
+    },
+    "persistent": {
+      "Preferences": {
+        "open": true
+      }
+    },
+    "transitory": {
+      "FMSInfo": {
+        "open": true
+      },
+      "LiveWindow": {
+        ".status": {
+          "open": true
+        },
+        "open": true
+      },
+      "Preferences": {
+        "open": true
+      },
+      "SmartDashboard": {
+        "BalanceChargeStationPID": {
+          "open": true
+        },
+        "Field": {
+          "open": true
+        },
+        "estimatorField": {
+          "open": true
+        },
+        "open": true,
+        "tagchooser": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NetworkTables View": {
+    "visible": false
+  }
+}
